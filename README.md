@@ -37,7 +37,7 @@
 ## Usage
 
 1. Download the flavor(s) of your choice from [Releases](https://github.com/catppuccin/gimp/releases/latest) and unzip the file(s).
-2. Move the folders (e.g. `Catppuccin Mocha/`, not `ui/` and the folder has to contain `ui/` and `gitkrc`) to the GIMP themes directory (MacOS: `/Applications/GIMP.app/Contents/Resources/share/gimp/*/themes/`, Linux: `~/.config/GIMP/*/themes/`).
+2. Move the folder(s) (e.g. `Catppuccin Mocha/`, not `ui/` and the folder has to contain `ui/` and `gitkrc`) to the GIMP themes directory (MacOS: `/Applications/GIMP.app/Contents/Resources/share/gimp/*/themes/`, Linux: `~/.config/GIMP/*/themes/`).
 3. Open the app and go to **Edit** > **Preferences** > **Interface** > **Theme** > **Select Theme**.
 4. Select the theme option you would like, and select **Ok**.
 
