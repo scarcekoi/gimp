@@ -11,5 +11,12 @@ jobs:
   run:
     uses: catppuccin/actions/.github/workflows/whiskers-check.yml@v1
     with:
-      args: gtkrc.tera
+      args: |
+        templates/common.tera
+        templates/common-dark.tera
+        templates/common-light.tera
+        templates/common-frappe.tera
+        templates/common-latte.tera
+        templates/common-macchiato.tera
+        templates/common-mocha.tera
     secrets: inherit
